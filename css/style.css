@@ -51,6 +51,7 @@ body
     	cursor: pointer;
         transition: 0.20s;
         box-shadow: 2px 3px 5px #588A32;
+        transition: all 0.85s ease;
     }
 
 /*css styling-ends*/
